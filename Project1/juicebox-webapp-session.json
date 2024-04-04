@@ -1,0 +1,12 @@
+{
+	"browsers": [
+		{
+			"backgroundColor": "255,255,255",
+			"url": "https://hicfiles.s3.amazonaws.com/hiseq/gm12878/in-situ/combined.hic?nvi=54386046426,55860",
+			"name": "Combined, Primary+Replicate",
+			"state": "10,10,7,292.7639,304.2165,640,640,1,NONE",
+			"colorScale": "88,255,0,0",
+			"nvi": "54386046426,55860"
+		}
+	]
+}
